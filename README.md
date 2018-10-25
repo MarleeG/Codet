@@ -8,15 +8,14 @@
 + Each one of your posts will be stored in the same database as your login and password.
 
 ## Built With:
-* html
-* Handlebars
-* Sequalize
-* MySQL
-* Express
-* Semantic UI style link
-* Quill.js
-* external css style sheet
-* external javascript files
+* [HTML](https://www.w3schools.com/html/)
+* [CSS](https://www.w3schools.com/css/)
+* [Handlebars](https://handlebarsjs.com)
+* [Sequelize](http://docs.sequelizejs.com)
+* [MySQL](https://www.mysql.com)
+* [Express](https://expressjs.com)
+* [Semantic UI](https://semantic-ui.com)
+* [Quill.js](https://quilljs.com)
 
 ## Authors:
 * [Daniel Z](https://github.com/danezorrilla)
